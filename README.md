@@ -1,1 +1,1 @@
-# This repository is an archive of test tasks by companies. 
+This repository is an archive of test tasks by companies. 
